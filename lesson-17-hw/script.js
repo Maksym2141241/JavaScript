@@ -1,3 +1,4 @@
+"use strict"
 //1
 var sec = 1;
 var minute = 60 * sec;
