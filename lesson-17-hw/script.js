@@ -8,7 +8,12 @@ console.log(3 * hour);
 
 //2
 var num = 1;
-num = (num + 12 -  14) * 5 / 7;
+num = num + 12;
+num = num - 14;
+num = num * 5;
+num = num / 7;
+num = num ++;
+num = num --;
 
 console.log(num);
 
@@ -29,9 +34,9 @@ var result = c + d;
 
 console.log(result);
 //5
-var name = ('Hello, Maksym!');
+var name = ('Maksym');
 
-alert(name);
+alert('Hello,' + name + '!');
 
 
 
