@@ -1,6 +1,6 @@
 "use strict"
 
-/*
+
 console.log('Б' > 'А');
 
 console.log('2' > 1);
@@ -53,7 +53,7 @@ if(year < 2019){
 }else{
     console.log('Верно');
 }
-*/
+
 
 
 var age = 101;
@@ -173,7 +173,7 @@ for(var i = 0; i < 3; i ++){
     console.log(i);
 }
 
-/*
+
 
 var sum = 0;
 while (true){
@@ -186,7 +186,7 @@ while (true){
 }
 
 console.log('Сумма:' + sum);
-*/
+
 console.log('________________');
 
 for(var i = 0; i < 10; i++){    
